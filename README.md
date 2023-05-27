@@ -9,12 +9,12 @@ Technologies I have experience with: <br>
     <td align="center">
       <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" width="54">
       <br>
-      HTML
+      HTML 5
     </td>
     <td align="center">
       <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="64">
       <br>
-      CSS
+      CSS 3
     </td>
     <td align="center">
       <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma" width="48">
@@ -39,7 +39,7 @@ Technologies I have experience with: <br>
     <td align="center">
       <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="72">
       <br>
-      Git
+      Git & Github
     </td>
     <td align="center">
       <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="48">
