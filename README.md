@@ -5,7 +5,7 @@ Always eager to expand my knowledge and learn something new 💬 🎧 📚 💡<
 <br>
 
 ### Technologies I have experience with:
-<br>
+
 <table>
   <tr>
     <td align="center">
