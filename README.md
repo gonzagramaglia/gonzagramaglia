@@ -7,16 +7,6 @@ Technologies I have experience with: <br>
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" width="54">
-      <br>
-      HTML 5
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="72">
-      <br>
-      CSS 3
-    </td>
-    <td align="center">
       <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma" width="48">
       <br>
       Figma
