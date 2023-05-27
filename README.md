@@ -39,17 +39,17 @@ Technologies I have experience with: <br>
     <td align="center">
       <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" width="48">
       <br>
-      Next.js
+      Next
     </td>
     <td align="center">
       <img src="https://i.postimg.cc/Zq2Y9xCd/tailwindcss-icon.png" alt="TailwindCSS" width="48">
       <br>
-      TailwindCSS
+      Tailwind
     </td>
     <td align="center">
       <img src="https://i.postimg.cc/y8nkNRmm/threejs-icon.png" alt="Three.js" width="48">
       <br>
-      Three.js
+      Three
     </td>
     <td align="center">
       <img src="https://img.icons8.com/color/48/000000/graphql.png" alt="GraphQL" width="48">
