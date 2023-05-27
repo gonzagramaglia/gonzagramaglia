@@ -52,11 +52,6 @@ Technologies I have experience with: <br>
       Three.js
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/blender-3d.png" alt="Blender" width="48">
-      <br>
-      Blender
-    </td>
-    <td align="center">
       <img src="https://img.icons8.com/color/48/000000/graphql.png" alt="GraphQL" width="48">
       <br>
       GraphQL
