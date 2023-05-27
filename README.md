@@ -12,7 +12,7 @@ Technologies I have experience with: <br>
       HTML 5
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="64">
+      <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="72">
       <br>
       CSS 3
     </td>
