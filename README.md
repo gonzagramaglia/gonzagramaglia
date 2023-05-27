@@ -1,8 +1,8 @@
 #### Hey ${props.visitor.name}! I’m gonza
-
-Passionate about web development and healthy lifestyle. <br>
-Always eager to expand my knowledge and learn something new :) <br>
-
+<br>
+Passionate about web development and healthy lifestyle 🍎 🍊 🥗 🏋️‍♂️ 🏃‍♂️ 🚴‍♂️ ☀ <br>
+Always eager to expand my knowledge and learn something new 💬 💻 🎧 📚 🧠 💡<br>
+<br>
 Technologies I have experience with: <br>
 ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![CSS](https://img.icons8.com/color/48/000000/css3.png)
