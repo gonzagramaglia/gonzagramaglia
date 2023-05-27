@@ -3,7 +3,9 @@
 Passionate about web development and healthy lifestyle 🍎 🏋️‍♂️ 🏃‍♂️ ☀ <br>
 Always eager to expand my knowledge and learn something new 💬 🎧 📚 💡<br>
 <br>
+
 ### Technologies I have experience with:
+
 <br>
 <table>
   <tr>
