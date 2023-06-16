@@ -49,14 +49,14 @@ In search of challenging projects that allow me to level up my skills 💻 💬 
       Tailwind
     </td>
     <td align="center">
-      <img src="https://i.postimg.cc/y8nkNRmm/threejs-icon.png" alt="Three.js" width="48">
+      <img src="https://assets.stickpng.com/thumbs/62c536ab3a321dd181302f81.png" alt="Redux" width="48">
       <br>
-      Three
+      Redux
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/graphql.png" alt="GraphQL" width="48">
+      <img src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" alt="Material UI" width="48">
       <br>
-      GraphQL
+      Material UI
     </td>
     <td align="center">
       <img src="https://i.postimg.cc/nV5rjZ9W/chatgpt-icon.png" alt="ChatGPT" width="48">
