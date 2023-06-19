@@ -54,14 +54,14 @@ In search of challenging projects that allow me to level up my skills 💻 💬 
       Material UI
     </td>
     <td align="center">
+      <img src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.png" alt="Framer Motion" width="48">
+      <br>
+      Framer Motion
+    </td>
+    <td align="center">
       <img src="https://miro.medium.com/v2/resize:fit:400/1*0nHtg7jz-cd49KIb-Za8lg.png" alt="Redux" width="48">
       <br>
       Redux
-    </td>
-    <td align="center">
-      <img src="https://i.postimg.cc/nV5rjZ9W/chatgpt-icon.png" alt="ChatGPT" width="48">
-      <br>
-      ChatGPT
     </td>
   </tr>
 </table>
