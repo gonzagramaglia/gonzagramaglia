@@ -1,7 +1,7 @@
 ## Hey ${props.visitor.name}! I’m [gonza](https://www.gonza.uno/)
 <br>
-Passionate about web development and healthy lifestyle 🍎 🏋️‍♂️ 🏃‍♂️ ☀ <br>
-In search of challenging projects that allow me to level up my skills 💻 💬 📚 💡<br>
+Passionate about web development and healthy lifestyle ☀ <br>
+In search of challenging projects that allow me to level up my skills 💡<br>
 <br>
 
 ### Technologies I have experience with:
@@ -9,59 +9,44 @@ In search of challenging projects that allow me to level up my skills 💻 💬 
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma" width="48">
+      <img src="https://i.postimg.cc/X7VdwLyK/html-white.png" alt="HTML" width="48">
       <br>
-      Figma
+      HTML
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" alt="Illustrator" width="48">
+      <img src="https://i.postimg.cc/2StWNf9T/css-white.png" alt="CSS" width="48">
       <br>
-      Illustrator
+      CSS
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop" width="48">
-      <br>
-      Photoshop
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="48">
+      <img src="https://i.postimg.cc/W3GqZqNf/js-white.png" alt="JavaScript" width="48">
       <br>
       JavaScript
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="72">
-      <br>
-      Git & Github
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="48">
+      <img src="https://i.postimg.cc/Gh5tHxPm/react-white.png" alt="React JS" width="48">
       <br>
       React
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" width="48">
+      <img src="https://i.postimg.cc/KYyZMq1x/next-white.png" alt="Next JS" width="48">
       <br>
       Next
     </td>
     <td align="center">
-      <img src="https://i.postimg.cc/Zq2Y9xCd/tailwindcss-icon.png" alt="TailwindCSS" width="48">
+      <img src="https://i.postimg.cc/qR10Wpjv/git-white.png" alt="Git & Github" width="48">
+      <br>
+      Git & Github
+    </td>
+    <td align="center">
+      <img src="https://i.postimg.cc/NMCqppjy/tailwind-white.png" alt="Tailwind CSS" width="48">
       <br>
       Tailwind
     </td>
     <td align="center">
-      <img src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" alt="Material UI" width="48">
-      <br>
-      Material UI
-    </td>
-    <td align="center">
-      <img src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.png" alt="Framer Motion" width="48">
+      <img src="https://i.postimg.cc/fy5KxrzF/framer-motion-white.png" alt="Framer Motion" width="48">
       <br>
       Framer Motion
-    </td>
-    <td align="center">
-      <img src="https://miro.medium.com/v2/resize:fit:400/1*0nHtg7jz-cd49KIb-Za8lg.png" alt="Redux" width="48">
-      <br>
-      Redux
     </td>
   </tr>
 </table>
