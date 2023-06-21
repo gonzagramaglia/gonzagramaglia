@@ -50,4 +50,6 @@ In search of challenging projects that allow me to level up my skills 💡<br>
     </td>
   </tr>
 </table>
+<br>
+<img src="https://i.postimg.cc/J7TZ5J39/react-wallpaper.jpg" alt="React Wallpaper" width="735px">
 
