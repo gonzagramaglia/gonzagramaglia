@@ -1,5 +1,4 @@
 ## Hey ${props.visitor.name}! I’m [gonza](https://www.gonza.uno/)
-<br>
 Passionate about web development and healthy lifestyle ☀ <br>
 In search of challenging projects that allow me to level up my skills 💡<br>
 <br>
@@ -51,5 +50,5 @@ In search of challenging projects that allow me to level up my skills 💡<br>
   </tr>
 </table>
 <br>
-<img src="https://i.postimg.cc/J7TZ5J39/react-wallpaper.jpg" alt="React Wallpaper" width="735px">
+<img src="https://i.postimg.cc/J7TZ5J39/react-wallpaper.jpg" alt="React Wallpaper" width="700px">
 
