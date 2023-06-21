@@ -1,6 +1,6 @@
 ## Hey ${props.visitor.name}! I’m [gonza](https://www.gonza.uno/)
-Passionate about web development and healthy lifestyle ☀ <br>
-In search of challenging projects that allow me to level up my skills 💡<br>
+Passionate about web development and healthy lifestyle. <br>
+In search of challenging projects that allow me to level up my skills.<br>
 <br>
 
 ### Technologies I have experience with:
