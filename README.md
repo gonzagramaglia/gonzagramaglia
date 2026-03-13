@@ -7,10 +7,9 @@ I’m a tech enthusiast who loves solving problems, whether it’s helping users
 ---
 
 ### 🛠️ The Journey So Far
-- 👨‍💼 **[B2B Telecommunications Technical Support Specialist](https://apexamerica.us/services/)** — *Currently delivering technical assistance for enterprise-level accounts*
+- 🚀 **[Freelance Full Stack Developer](https://gonzalogramagia.com/work/full-stack-developer)** — _Currently designing and developing full stack web applications for clients_
 - 🛡 **[B.S. in Cyberdefense (UNDEF)](https://undef.edu.ar/fadena/carreras-de-grado/licciberdefensa/)** — *In Progress*
 - 🎯 **Ongoing Training** — *Actively practicing with **[TryHackMe](https://gonzalogramagia.com/blog/advent-of-cyber-2025)** machines and **[Codeforces](https://gonzalogramagia.com/blog/codeforces-journey)** challenges*
-- 🚀 **[Freelance Full Stack Developer](https://gonzalogramagia.com/work/full-stack-developer)** — Worked with clients to design and develop full stack web applications
 - 🎓 **[B.S. in Computer Science (FAMAF UNC)](https://famaf.unc.edu.ar/academica/grado/licenciatura-en-ciencias-de-la-computaci%C3%B3n/)** — Completed first year
 - 💻 **Web Development Training** — Studied full stack development on **[Scrimba](https://scrimba.com/)** and **[Boot.dev](https://boot.dev/u/gonza)**
 - 🧪 **[Help Desk Specialist](https://gonzalogramagia.com/work/help-desk-specialist)** — Worked at Stämm Biotech
