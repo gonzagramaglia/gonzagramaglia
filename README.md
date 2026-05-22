@@ -1,18 +1,18 @@
 # Hi there, I'm Gonza! 👋
 
-**IT Support Specialist & Full Stack Developer**
+**Full Stack Developer | Systems Reliability & Security**
 
-I’m a tech enthusiast who loves solving problems, whether it’s helping users with technical issues or building a web app. I’m always looking for ways to make systems more secure and reliable.
+I thrive on solving complex technical challenges. Whether I'm building full-stack web solutions from the ground up or troubleshooting critical IT infrastructure, I am constantly looking for ways to architect systems that are more secure, scalable, and reliable.
 
 ---
 
 ### 🛠️ The Journey So Far
-- 🚀 **[Freelance Full Stack Developer](https://gonzalogramagia.com/work/full-stack-developer)** — _Currently designing and developing full stack web applications for clients_
+- 🚀 **[Freelance Full Stack Developer](https://gonzagramaglia.github.io/work/full-stack-developer)** — _Currently designing and developing full stack web applications for clients_
 - 🛡 **[B.S. in Cyberdefense (UNDEF)](https://undef.edu.ar/fadena/carreras-de-grado/licciberdefensa/)** — *In Progress*
-- 🎯 **Ongoing Training** — *Actively practicing with **[TryHackMe](https://gonzalogramagia.com/blog/advent-of-cyber-2025)** machines and **[Codeforces](https://gonzalogramagia.com/blog/codeforces-journey)** challenges*
+- 🎯 **Ongoing Training** — *Actively practicing with **[TryHackMe](https://gonzalogramagia.com/blog/advent-of-cyber-2025)** machines and **[Codeforces](https://gonzagramaglia.github.io/blog/codeforces-journey)** challenges*
 - 🎓 **[B.S. in Computer Science (FAMAF UNC)](https://famaf.unc.edu.ar/academica/grado/licenciatura-en-ciencias-de-la-computaci%C3%B3n/)** — Completed first year
 - 💻 **Web Development Training** — Studied full stack development on **[Scrimba](https://scrimba.com/)** and **[Boot.dev](https://boot.dev/u/gonza)**
-- 🧪 **[Help Desk Specialist](https://gonzalogramagia.com/work/help-desk-specialist)** — Worked at Stämm Biotech
+- 🧪 **[Help Desk Specialist](https://gonzagramaglia.github.io/work/help-desk-specialist)** — Worked at Stämm Biotech
 - 📜 **Google Certificates**: **[IT Support](https://coursera.org/account/accomplishments/professional-cert/2U2F6SMQXZN5)** & **[Cybersecurity](https://coursera.org/account/accomplishments/specialization/5SEJBLSXBQT5)**
 
 ---
@@ -23,6 +23,6 @@ I’m a tech enthusiast who loves solving problems, whether it’s helping users
 
 ### 📫 Get in Touch
 
-**[LinkedIn](https://linkedin.com/in/gonzalogramagia)**
+**[LinkedIn](https://linkedin.com/in/gonzagramaglia)**
 |
 **[Book a Call](https://cal.com/gonza)**
