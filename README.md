@@ -9,7 +9,7 @@ I thrive on solving complex technical challenges. Whether I'm building full-stac
 ### 🛠️ The Journey So Far
 - 🚀 **[Freelance Full Stack Developer](https://gonzagramaglia.github.io/work/full-stack-developer)** — _Currently designing and developing full stack web applications for clients_
 - 🛡 **[B.S. in Cyberdefense (UNDEF)](https://undef.edu.ar/fadena/carreras-de-grado/licciberdefensa/)** — *In Progress*
-- 🎯 **Ongoing Training** — *Actively practicing with **[TryHackMe](https://gonzalogramagia.com/blog/advent-of-cyber-2025)** machines and **[Codeforces](https://gonzagramaglia.github.io/blog/codeforces-journey)** challenges*
+- 🎯 **Ongoing Training** — *Actively practicing with **[TryHackMe](https://gonzalogramagia.com/blog/advent-of-cyber-2025)** challenges*
 - 🎓 **[B.S. in Computer Science (FAMAF UNC)](https://famaf.unc.edu.ar/academica/grado/licenciatura-en-ciencias-de-la-computaci%C3%B3n/)** — Completed first year
 - 💻 **Web Development Training** — Studied full stack development on **[Scrimba](https://scrimba.com/)** and **[Boot.dev](https://boot.dev/u/gonza)**
 - 🧪 **[Help Desk Specialist](https://gonzagramaglia.github.io/work/help-desk-specialist)** — Worked at Stämm Biotech
