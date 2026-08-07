@@ -22,9 +22,11 @@ I thrive on solving complex technical challenges. Whether I'm building full-stac
 
 ### 🛡️ Ciberportero & Tech Content
 
-Beyond writing code, I am the creator of **[Ciberportero](https://www.youtube.com/@ciberportero)**, my alter ego dedicated to making cybersecurity and tech careers accessible to everyone:
-- 🎬 **[YouTube Channel](https://www.youtube.com/@ciberportero):** Creating educational videos about the Cyberdefense career and programming (some with over 1,000+ views!).
-- 📚 **[Student Resources](https://www.ciberportero.com/blog):** Developing tools and compiling resources on my blog to help fellow students navigate the tech and security landscape.
+Beyond writing code, I am the creator of **[Ciberportero](https://www.ciberportero.com)**, a healthy community and content platform dedicated to making cybersecurity and tech careers accessible to everyone:
+- 🌴 ⚽ **[YouTube Channel](https://www.youtube.com/@ciberportero):** Creating educational videos about the Cyberdefense career (some with over 1,000+ views!).
+- 📚 ☕ **[Student Resources](https://www.ciberportero.com/blog):** Developing tools and compiling resources on my blog to help fellow students navigate the tech and security landscape.
+
+#### ⭐ Latest YouTube Videos from my Main Channel
 
 <p align="left">
   <a href='https://youtu.be/nqmhqraKEKY' target='_blank'>
@@ -35,6 +37,20 @@ Beyond writing code, I am the creator of **[Ciberportero](https://www.youtube.co
   </a>
   <a href='https://youtu.be/QWO6bOTpb-o' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/QWO6bOTpb-o/mqdefault.jpg' alt='Aprendiendo Go y Testing a la vez' />
+  </a>
+</p>
+
+#### 🏃‍♂️ Latest YouTube Videos from my Secondary Channel
+
+<p align="left">
+  <a href='https://youtu.be/rE0EWIo8dgk' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/rE0EWIo8dgk/mqdefault.jpg' alt='+15K DE EXPERIENCIA' />
+  </a>
+  <a href='https://youtu.be/WwYIHgJJJa0' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/WwYIHgJJJa0/mqdefault.jpg' alt='NUEVO SETUP DE ESTUDIO: PIZARRA + GYM' />
+  </a>
+  <a href='https://youtu.be/cfO94veDpcM' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/cfO94veDpcM/mqdefault.jpg' alt='CAMPEONES DE AJEDREZ' />
   </a>
 </p>
 
