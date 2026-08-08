@@ -20,6 +20,10 @@ I thrive on solving complex technical challenges. Whether I'm building full-stac
 
 ---
 
+[![Join team GRAU!](./grau.png)](https://github.com/gonzagramaglia/ajedrezfamaf)
+
+---
+
 ### 🛡️ Ciberportero & Tech Content
 
 Beyond writing code, I am the creator of **[Ciberportero](https://www.ciberportero.com)**, a healthy community and content platform dedicated to making cybersecurity and tech careers accessible to everyone:
