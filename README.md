@@ -1,34 +1,33 @@
 # Hi there, I'm Gonza! 👋
 
-**Full Stack Developer | Systems Reliability & Security**
+[**Full Stack Developer | Systems Reliability & Security**](https://gonzagramaglia.github.io)
 
 I thrive on solving complex technical challenges. Whether I'm building full-stack web solutions from the ground up or troubleshooting critical IT infrastructure, I bring a **security-first mindset** to modern web development. I am constantly looking for ways to architect systems that are fast, secure, and production-ready.
 
-🗣️ **Languages:** Spanish (Native), English (**[C1 Advanced CEFR](https://cert.efset.org/en/VNFN4x)**)
+🗣️ **Languages:** Spanish (Native) & English (**[C1 Advanced CEFR](https://cert.efset.org/en/VNFN4x)**).
 
 ---
 
 ### 🛠️ The Journey So Far
+- 🚀 **[Freelance Full Stack Developer](https://gonzagramaglia.github.io/work/full-stack-developer)** — *Helping clients launch web products faster with streamlined development.*
+- 🛡 **[B.S. in Cyberdefense (UNDEF)](https://undef.edu.ar/fadena/carreras-de-grado/licciberdefensa/)** — *In progress*.
 - 🏆 **[HackTheKitty 2026 Runner-Up](https://hackthekitty.com/leaderboard)** — Secured 2nd place out of 127 teams as the only solo developer in the Top 7. Built an AI health tracker for felines in record time.
-- 🚀 **[Freelance Full Stack Developer](https://gonzagramaglia.github.io)** — *Building fast, scalable web applications with Next.js, Go, and Supabase. Leveraging AI-driven workflows to ship client products faster.*
-- 🛡 **[B.S. in Cyberdefense (UNDEF)](https://undef.edu.ar/fadena/carreras-de-grado/licciberdefensa/)** — *In Progress*.
-- 🎯 **Ongoing Training** — *Actively practicing with **[TryHackMe](https://gonzagramaglia.github.io/blog/advent-of-cyber-2025)** challenges*.
 - 🎓 **[B.S. in Computer Science (FAMAF UNC)](https://famaf.unc.edu.ar/academica/grado/licenciatura-en-ciencias-de-la-computaci%C3%B3n/)** — Completed first year.
-- 💻 **Web Development Training** — Studied full stack development on **[Scrimba](https://scrimba.com/)** and **[Boot.dev](https://boot.dev/u/gonza)**.
+- 💻 **Web Development Training** — Studied full stack development on **[Scrimba](https://scrimba.com/courses)** and **[Boot.dev](https://boot.dev/u/gonza)**.
 - 🧪 **[Help Desk Specialist](https://gonzagramaglia.github.io/work/help-desk-specialist)** — Worked at Stämm Biotech.
-- 📜 **Google Certificates**: **[IT Support](https://coursera.org/account/accomplishments/professional-cert/2U2F6SMQXZN5)** & **[Cybersecurity](https://coursera.org/account/accomplishments/specialization/5SEJBLSXBQT5)**.
+- 📜 **Google Tech Training** — **[IT Support](https://coursera.org/account/accomplishments/professional-cert/2U2F6SMQXZN5)** & **[Cybersecurity](https://coursera.org/account/accomplishments/specialization/5SEJBLSXBQT5)**.
 
 ---
 
-[![Join team GRAU!](./grau.png)](https://github.com/gonzagramaglia/ajedrezfamaf)
+[![Join team GRAU!](./grau.png)](https://instagram.com/ajedrezgrau/)
 
 ---
 
 ### 🛡️ Ciberportero & Tech Content
 
-Beyond writing code, I am the creator of **[Ciberportero](https://www.ciberportero.com)**, a healthy community and content platform dedicated to making cybersecurity and tech careers accessible to everyone:
-- 🌴 ⚽ **[YouTube Channel](https://www.youtube.com/@ciberportero):** Creating educational videos about the Cyberdefense career (some with over 1,000+ views!).
-- 📚 ☕ **[Student Resources](https://www.ciberportero.com/blog):** Developing tools and compiling resources on my blog to help fellow students navigate the tech and security landscape.
+Beyond writing code, I manage [**a healthy community**](https://chat.whatsapp.com/CeaqmmVDIcO2uG1EQPv6a6) and content platform dedicated to making cybersecurity and tech careers accessible to everyone.
+- 🌴 ⚽ **[YouTube Channel](https://www.youtube.com/@ciberportero):** Creating educational videos about the national Cyberdefense career (some with over 2,000+ views!).
+- 📚 ☕ **[Student Resources](https://www.ciberportero.com):** Developing tools and compiling resources to help fellow argentinians navigate the tech and security landscape.
 
 #### ⭐ Latest YouTube Videos from my Main Channel
 
@@ -62,8 +61,8 @@ Beyond writing code, I am the creator of **[Ciberportero](https://www.ciberporte
 
 ### 📫 Get in Touch
 
-**[LinkedIn](https://linkedin.com/in/gonzagramaglia)**
+**[Let's connect on LinkedIn](https://linkedin.com/in/gonzagramaglia)**
 |
-**[Book a Call](https://cal.com/gonza)**
+**[Book a call](https://cal.com/gonza)**
 |
-**[Portfolio](https://gonzagramaglia.github.io)**
+**[Join my Discord](https://discord.gg/UUur9aS62K)**
